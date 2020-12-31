@@ -1,6 +1,8 @@
 def square_array(array)
   number = []
 
-  square_array(numbers ** 2)
+  while square_array(numbers ** 2) do
+
+  end
 end
 square_array
